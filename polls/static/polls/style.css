@@ -1,5 +1,8 @@
+ul {
+    list-style: none;
+}
 li a {
-    color: green;
+    color: white;
 }
 
 body {
