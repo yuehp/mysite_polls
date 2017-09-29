@@ -5,12 +5,11 @@
 ul {
     list-style: none;
 }
-li a {
-    color: white;
-}
+
 
 body {
-    background: orange url("images/background.jpg") no-repeat left top;
+    font-family: "Microsoft Yahei";
+    /*background: orange url("images/background.jpg") no-repeat left top;*/
     height: 1000px;
 }
 
