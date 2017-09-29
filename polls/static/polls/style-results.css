@@ -1,0 +1,9 @@
+body {
+    background: orange url("images/background.jpg") no-repeat left top;
+    height: 1000px;
+}
+
+.content {
+    width: 1000px;
+    margin: 100px auto;
+}
